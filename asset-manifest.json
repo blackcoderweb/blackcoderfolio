@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blackcoderfolio/static/css/main.09e3672f.css",
+    "main.js": "/blackcoderfolio/static/js/main.87346e03.js",
+    "index.html": "/blackcoderfolio/index.html",
+    "main.09e3672f.css.map": "/blackcoderfolio/static/css/main.09e3672f.css.map",
+    "main.87346e03.js.map": "/blackcoderfolio/static/js/main.87346e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e3672f.css",
+    "static/js/main.87346e03.js"
+  ]
+}
