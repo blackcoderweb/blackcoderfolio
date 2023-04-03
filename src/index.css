@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -266,6 +270,15 @@ button:hover {
   height: 300px;
   overflow: hidden;
   box-shadow: 0px 0px 20px #ddd;
+}
+
+.work-detail {
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.work-detail img {
+  width: 90%;
 }
 
 .contact-bar{

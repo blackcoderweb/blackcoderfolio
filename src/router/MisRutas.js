@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom"
+import {Routes, Route, Navigate, HashRouter} from "react-router-dom"
 import { ContactBar } from '../components/ContactBar';
 import { Contacto } from '../components/Contacto';
 import { Curriculum } from '../components/Curriculum';
@@ -12,7 +12,7 @@ import { Servicios } from '../components/Servicios';
 
 export const MisRutas = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
             {/*HEADER Y NAVEGACIÓN*/}
             <HeaderNav/>
             {/*CONTENIDO CENTRAL*/}
@@ -36,6 +36,6 @@ export const MisRutas = () => {
             {/*FOOTER*/}
             <Footer/>
    
-    </BrowserRouter>
+    </HashRouter>
   )
 }

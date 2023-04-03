@@ -10,7 +10,7 @@ export const Curriculum = () => {
             <a href="../documents/mi_cv.pdf" download="CV DARIEL CONDE VILLA EN-SP">Descarga mi CV</a>
           </div>
           
-          <img src="../images/computer.png" alt="" className='cv-img' />
+          <img src="blackcoderfolio/images/computer.png" alt="" className='cv-img' />
         </div>
 
         <div className='cv-description'>
@@ -34,9 +34,11 @@ export const Curriculum = () => {
                     </ul>
                     <p>2014-2018 (Habana-Cuba)</p>
                     <p>Especialista superior</p>
-                    <p>Organización, regulación y control de los servicios de telecomunicaciones e informática.</p>
-                    <p>Supervisión del desarrollo de la infraestructura de comunicaciones y plataformas tecnológicas.</p>
-                    <p>Regulación y control de las especificaciones técnicas y de funcionamiento de los sistemas, equipos y dispositivos a ser utilizados en las redes de telecomunicaciones e informáticas.</p> <p>Miembro del Comité Técnico de Normalización "Tecnologías de la Información".</p>
+                    <p>Organización, regulación y control de los servicios de telecomunicaciones e informática.
+                    Supervisión del desarrollo de la infraestructura de comunicaciones y plataformas tecnológicas.
+                    Regulación y control de las especificaciones técnicas y de funcionamiento de los sistemas, equipos y dispositivos a ser utilizados en las redes de telecomunicaciones e informáticas.
+                    Miembro del Comité Técnico de Normalización "Tecnologías de la Información".
+                    </p>
 
               <h2>Conocimientos</h2>
                     <ul>

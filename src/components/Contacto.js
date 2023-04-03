@@ -7,7 +7,7 @@ export const Contacto = () => {
     <div className='page'>
       <h1 className='heading'>Contacto</h1>
 
-      <form className='contact' action='mailto:darielconde@gmail.com'>
+      <form className='contact' action='mailto:blackcoderweb@gmail.com'>
 
         <input type="text" placeholder='Nombre' />
         <input type="text" placeholder='Apellidos' />
@@ -17,7 +17,7 @@ export const Contacto = () => {
       </form>
     </div>
     <div className='mexico-img'>
-      <img src="../images/mexico.png" alt="" />
+      <img src="blackcoderfolio/images/mexico.png" alt="" />
       </div>
   </section>
   )

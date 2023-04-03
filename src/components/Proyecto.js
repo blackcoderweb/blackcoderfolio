@@ -14,14 +14,13 @@ export const Proyecto = () => {
     }, []);
 
   return (
-    <div className='work-page'>
+    <div className='work-detail'>
         <div className='work-img'>
-            <img src={""}/>
+            <img src={proyecto.url} alt="" />
         </div>
       <h1 className='heading'>{proyecto.nombre}</h1>
       <p>{proyecto.tecnologias}</p>
-      <p>{proyecto.descripcion}</p>
-      <a href="url del proyecto" target="_blank" >Ir al proyecto</a>
+      <a href={proyecto.web} target="_blank" rel='noreferrer' >Ir al proyecto</a>
     </div>
   )
 }

@@ -2,55 +2,41 @@ export const trabajos = [
     {
         id: "1",
         nombre: "Mi portafolio",
-        url: "../images/blackcoder.png",
+        url: "blackcoderfolio/images/blackcoder.png",
         tecnologias: "HTML, CSS, JS",
         categoria: "Desarrollo web",
-        descripcion: "lorem ipsum",
         web:""
     },
     {
         id: "2",
-        nombre: "Maquetación web",
-        url: "../images/maquetacion.png",
+        nombre: "Aplicación de películas",
+        url: "blackcoderfolio/images/maquetacion.png",
         tecnologias: "HTML, CSS, JS",
-        categoria: "Maquetación",
-        descripcion: "",
-        web:""
+        categoria: "Maquetación y desarrollo web",
+        web:"https://conde90.github.io/06-proyecto1/"
     },
     {
         id: "3",
         nombre: "JSONPlaceholder",
-        url: "../images/jsonplaceholder.png",
+        url: "blackcoderfolio/images/jsonplaceholder.png",
         tecnologias: "HTML, CSS, JS",
         categoria: "API REST",
-        descripcion: "",
-        web:""
+        web:"https://conde90.github.io/api-rest-jsonplaceholder/"
     },
     {
         id: "4",
         nombre: "Aplicación de tareas",
-        url: "../images/app-tareas.png",
+        url: "blackcoderfolio/images/app-tareas.png",
         tecnologias: "HTML, CSS, JS, REACT",
         categoria: "Desarrollo web",
-        descripcion: "",
         web: "https://conde90.github.io/react-tasks-example/"
     },
     {
         id: "5",
-        nombre: "",
-        url: "../images/computer2.jpg",
-        tecnologias: "HTML, CSS, JS",
-        categoria: "",
-        descripcion: "",
-        web:""
-    },
-    {
-        id: "6",
-        nombre: "",
-        url: "../images/computer2.jpg",
-        tecnologias: "HTML, CSS, JS",
-        categoria: "",
-        descripcion: "",
-        web:""
+        nombre: "Aplicación de login/logout",
+        url: "blackcoderfolio/images/login.png",
+        tecnologias: "HTML, CSS, JS, REACT",
+        categoria: "Desarrollo web",
+        web: "https://conde90.github.io/13-context/"
     }
 ]
