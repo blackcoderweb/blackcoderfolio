@@ -17,7 +17,7 @@ export const Contacto = () => {
       </form>
     </div>
     <div className='mexico-img'>
-      <img src="blackcoderfolio/images/mexico.png" alt="" />
+      <img src="https://github.com/Conde90/blackcoderfolio/blob/gh-pages/images/mexico.png" alt="" />
       </div>
   </section>
   )

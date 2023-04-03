@@ -10,7 +10,7 @@ export const Curriculum = () => {
             <a href="../documents/mi_cv.pdf" download="CV DARIEL CONDE VILLA EN-SP">Descarga mi CV</a>
           </div>
           
-          <img src="blackcoderfolio/images/computer.png" alt="" className='cv-img' />
+          <img src="https://github.com/Conde90/blackcoderfolio/blob/gh-pages/images/computer.png" alt="" className='cv-img' />
         </div>
 
         <div className='cv-description'>
