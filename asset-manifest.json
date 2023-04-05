@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blackcoderfolio/static/css/main.ace616bd.css",
+    "main.css": "/blackcoderfolio/static/css/main.829911b6.css",
     "main.js": "/blackcoderfolio/static/js/main.4e10d3a4.js",
     "index.html": "/blackcoderfolio/index.html",
-    "main.ace616bd.css.map": "/blackcoderfolio/static/css/main.ace616bd.css.map",
+    "main.829911b6.css.map": "/blackcoderfolio/static/css/main.829911b6.css.map",
     "main.4e10d3a4.js.map": "/blackcoderfolio/static/js/main.4e10d3a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ace616bd.css",
+    "static/css/main.829911b6.css",
     "static/js/main.4e10d3a4.js"
   ]
 }
