@@ -7,10 +7,10 @@ export const Curriculum = () => {
         <div className='page'>
           <h1 className='heading'>Curriculum</h1>
           <div className='download-cv'>
-            <a href="../documents/mi_cv.pdf" download="CV DARIEL CONDE VILLA EN-SP">Descarga mi CV</a>
+            <a href="documents/mi_cv.pdf" download="CV DARIEL CONDE VILLA EN-SP">Descarga mi CV</a>
           </div>
           
-          <img src="https://github.com/Conde90/blackcoderfolio/blob/gh-pages/images/computer.png" alt="" className='cv-img' />
+          <img src="images/computer.png" alt="" className='cv-img' />
         </div>
 
         <div className='cv-description'>
