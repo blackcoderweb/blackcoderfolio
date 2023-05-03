@@ -20,7 +20,7 @@ export const Curriculum = () => {
                       <li>ALDECOA & ELIAS S. DE R.L. DE C.V.</li>
                     </ul>
                     <p>2018-actualidad (CDMX-México)</p>
-                    <p>Especialista TI de Soporte técnico</p>
+                    <p>Diseñar, crear y realizar mantenimiento a páginas y aplicaciones web.</p>
 
                     <ul>
                       <li>PATRANS IP SRL</li>
@@ -34,16 +34,12 @@ export const Curriculum = () => {
                     </ul>
                     <p>2014-2018 (Habana-Cuba)</p>
                     <p>Especialista superior</p>
-                    <p>Organización, regulación y control de los servicios de telecomunicaciones e informática.
-                    Supervisión del desarrollo de la infraestructura de comunicaciones y plataformas tecnológicas.
-                    Regulación y control de las especificaciones técnicas y de funcionamiento de los sistemas, equipos y dispositivos a ser utilizados en las redes de telecomunicaciones e informáticas.
-                    Miembro del Comité Técnico de Normalización "Tecnologías de la Información".
-                    </p>
+                    <p>Organización, regulación y control de los servicios informáticos. Supervisión del desarrollo integral de productos y servicios de Tecnologías de la Información y la Comunicación. Regulación y control de las especificaciones técnicas y operativas de los sistemas para lograr la integración efectiva de aplicaciones y servicios informáticos. Miembro del Comité Técnico de Normalización "Tecnologías de la Información".</p>
 
               <h2>Conocimientos</h2>
                     <ul>
                       <li>
-                        Desarrollo de software (CSS, HTML, C#, Java, JavaScript, React, Node.js, Express, MySQL)
+                        Desarrollo de software (CSS, HTML, C#, Java, JavaScript, React, Node.js, Express, MySQL, MongoDB)
                       </li>
                     </ul>
                     <ul>
